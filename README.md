@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushara
-- 👀 I’m interested in machine learning, python, computational neuroscience
-- 🌱 I’m currently learning machine learning, java, dbms
+- 👀 I’m interested in machine learning, deep learning,  python, c++ , computational neuroscience
+- 🌱 I’m currently learning machine learning, deep learning, java, dbms
 - 📫 You can reach me on www.linkedin.com/in/tushara-nivarthi
 
 <!---
