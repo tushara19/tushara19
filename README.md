@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushara
-- 👀 Exploring artificial intelligence and machine learning
+- 👀 Exploring data science
 - 📫 You can reach me on www.linkedin.com/in/tushara-nivarthi
 - Other projects @ GITLAB : https://gitlab.com/TUSH1019
 
